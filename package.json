@@ -1,0 +1,29 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "Create a bank account which can accept deposits, withdrawals and print an account statement.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophiebeard/bank-challenge.git"
+  },
+  "author": "Sophie Beard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophiebeard/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/sophiebeard/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.4.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
